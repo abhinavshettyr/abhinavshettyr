@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Currently studying in BMS College of Engineering
 <!--
 **abhinavshettyr/abhinavshettyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
